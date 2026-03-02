@@ -3,7 +3,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import func
 from datetime import datetime
 import hashlib
-from .models import SessionLocal, Employee, Company, HealthRecord, RiskAssessment  # Note the dot (.) for relative import
+from .models import SessionLocal, Employee, Company, HealthRecord, RiskAssessment
 
 class DatabaseOperations:
     @staticmethod

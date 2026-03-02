@@ -1,7 +1,5 @@
 # app/__init__.py
-"""WellTrackAI Application Package"""
+"""WellTrackAI - Corporate Health Management Platform"""
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-
-# This ensures the app package is properly recognized
+__author__ = "Vaishnav AK"

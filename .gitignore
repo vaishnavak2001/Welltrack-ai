@@ -1,0 +1,45 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Saved ML models (large binary files)
+models/saved_models/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool artifacts
+.gemini/
